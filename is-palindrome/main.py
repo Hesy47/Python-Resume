@@ -1,2 +1,2 @@
-def is_palindrome(text:str)->bool:
+def is_palindrome(text: str) -> bool:
     pass
