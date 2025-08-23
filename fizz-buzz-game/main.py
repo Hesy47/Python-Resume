@@ -1,4 +1,4 @@
-def fizz_buzz_game(start: int, stop: int) -> str:
+def fizz_buzz_game(start: int, stop: int) -> None:
     game_range = range(start, stop + 1)
 
     for number in game_range:
