@@ -13,3 +13,5 @@ def top_two_frequent(nums: list[int]) -> list[int]:
 print(top_two_frequent([1, 1, 2, 2, 3, 3, 3]))
 print(top_two_frequent([5, 5, 4, 4, 4, 3]))
 print(top_two_frequent([7, 7, 8, 8, 9]))
+
+#fundamentals
